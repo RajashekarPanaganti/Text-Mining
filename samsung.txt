@@ -1,0 +1,25 @@
+"x"
+"1" "I like Samsung"
+"2" "Good phone"
+"3" "Very nice product"
+"4" "Very good product"
+"5" "This mobile good condition
+After 1 year period
+Not hang this device
+Support 32 gb external memory card"
+"6" "Value for money...."
+"7" "Vere good product"
+"8" "GOOD PRODUCT"
+"9" "Very good items"
+"10" "nice fantastic"
+"11" "Product is ok"
+"12" "Gud product"
+"13" "Good product"
+"14" "Excelent product"
+"15" "Supar mobile"
+"16" "Very nice go for it"
+"17" "Nice phone"
+"18" "Good
+Product"
+"19" "Good mobile"
+"20" "Excellent Delivery"
